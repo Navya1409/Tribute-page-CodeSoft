@@ -3,7 +3,7 @@
 }
 
 main {
-    background-color: rgb(245, 245, 245);
+    background-color:cornflowerblue;
     margin: 30px 5px;
 }
 
@@ -75,5 +75,5 @@ footer {
 
 a {
     cursor: pointer;
-    color: rgb(108, 137, 223);
+    color:cornflowerblue ;
 }
